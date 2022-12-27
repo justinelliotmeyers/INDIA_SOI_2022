@@ -1,3 +1,5 @@
+SOURCE:https://onlinemaps.surveyofindia.gov.in/Digital_Product_Show.aspx
+
 https://www.surveyofindia.gov.in/pages/copyright-policy
 
 Material featured on this site may be reproduced free of charge in any format or media without requiring specific permission. This is subject to the material being reproduced accurately and not being used in a derogatory manner or in a misleading context. Where the material is being published or issued to others, the source must be prominently acknowledged.
