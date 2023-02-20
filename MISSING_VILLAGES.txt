@@ -1,13 +1,13 @@
 1.Andhara Pradesh
 2.Arunachal Pradesh
-3.Assam
-4.Jammu & Kasmir
-5.Manipur
-6.Meghalaya
-7.Mizoram
-8.Nagaland
-9.Rajeshthan
-10.Sikkim
-11.Tamilnadu
-12.Telangana
+3.Jammu & Kasmir
+4.Manipur
+5.Meghalaya
+6.Mizoram
+7.Nagaland
+8.Rajeshthan
+9.Sikkim
+10.Tamilnadu
+11.Telangana
+12.Tripura
 13.Dada nagar Haveli and Daman & Diu
