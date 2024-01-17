@@ -7,3 +7,5 @@ Merged Villages: https://drive.google.com/drive/folders/1P3c3BsF7NTusnC_E2JBwHwt
 Merged Subdistricts: https://drive.google.com/drive/folders/1MOlQQC41_q1i0nHjf9p2XYLWNOkGQ_o4?usp=sharing
 
 Need to clean attributes (state names, district names, subdistrict names).
+
+SOURCE: https://onlinemaps.surveyofindia.gov.in/Digital_Product_Show.aspx
